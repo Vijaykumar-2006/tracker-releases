@@ -1,13 +1,13 @@
 {
-  "version": "1.9.1",
-  "notes": "Phone updates now download and install inside Tracker. The first time, Android asks you to allow Tracker to install updates.",
-  "publishedAt": "2026-10-22T10:49:17.521Z",
+  "version": "1.10.0",
+  "notes": "Teach Tracker bank SMS it couldn't read (Review → messages to teach). Warns before adding the same expense twice, and links bank SMS to expenses you entered by hand. Payday forecast and safe to spend today on the Expenses page.",
+  "publishedAt": "2026-10-22T12:25:11.573Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.9.1/Tracker-1.9.1.apk",
-    "sha256": "60204b295f389dcb3afb0cdd21f1524036d5557d6aa57b1a4cede4f57a034921"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.10.0/Tracker-1.10.0.apk",
+    "sha256": "5613bf74066f3ea942695215d39774a28cd34655349fe4cf1646cf7486ba3df1"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.9.1/Tracker-Setup-1.9.1.exe",
-    "sha256": "a44e7ff765c9a29b0e8fc5eb1c55bd60f9bf8bbbe32efe4787d3196b79ba2fb2"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.10.0/Tracker-Setup-1.10.0.exe",
+    "sha256": "423d33ffeb15f9aa6f38ce56de4b1bc8b9760f0186bffa283eb3a7b8e43da2bb"
   }
 }
