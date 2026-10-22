@@ -1,13 +1,13 @@
 {
-  "version": "1.8.0",
-  "notes": "Backup and restore, in-app updates, quick add, lent and borrowed, savings goals, subscriptions, unusual spending alerts, calendar, widget ticks, bills that tick off tasks, ATM to Cash.",
-  "publishedAt": "2026-10-22T07:51:52.357Z",
+  "version": "1.9.0",
+  "notes": "Quick add for tasks (\"call mom tomorrow 6pm\", \"pay rent every month 1st\"). Reminders have Done, Snooze 1 hour and Tomorrow buttons. A 9 AM check offers to move overdue tasks to today.",
+  "publishedAt": "2026-10-22T08:52:11.801Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.8.0/Tracker-1.8.0.apk",
-    "sha256": "74d3be6c4f2e965f4486b792805a9a027ce9ba18b789af7bb338c46c5ebc9c4b"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.9.0/Tracker-1.9.0.apk",
+    "sha256": "5b04c6455b6e31556aa6a0c47548f554fcfba3106e0c2f64baaf89be5ada6862"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.8.0/Tracker-Setup-1.8.0.exe",
-    "sha256": "63d8935c1a25b8b2f28a34535dabdb72b8578ae5bc467cd4f7dbfbd35846c5a1"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.9.0/Tracker-Setup-1.9.0.exe",
+    "sha256": "9cf6588734646a107b12c62b9ebfb0bba5cfc72f3eb7d1fb75dbbc767b697238"
   }
 }
