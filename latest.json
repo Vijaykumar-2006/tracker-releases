@@ -1,13 +1,13 @@
 {
-  "version": "1.9.0",
-  "notes": "Quick add for tasks (\"call mom tomorrow 6pm\", \"pay rent every month 1st\"). Reminders have Done, Snooze 1 hour and Tomorrow buttons. A 9 AM check offers to move overdue tasks to today.",
-  "publishedAt": "2026-10-22T08:52:11.801Z",
+  "version": "1.9.1",
+  "notes": "Phone updates now download and install inside Tracker. The first time, Android asks you to allow Tracker to install updates.",
+  "publishedAt": "2026-10-22T10:49:17.521Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.9.0/Tracker-1.9.0.apk",
-    "sha256": "5b04c6455b6e31556aa6a0c47548f554fcfba3106e0c2f64baaf89be5ada6862"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.9.1/Tracker-1.9.1.apk",
+    "sha256": "60204b295f389dcb3afb0cdd21f1524036d5557d6aa57b1a4cede4f57a034921"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.9.0/Tracker-Setup-1.9.0.exe",
-    "sha256": "9cf6588734646a107b12c62b9ebfb0bba5cfc72f3eb7d1fb75dbbc767b697238"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.9.1/Tracker-Setup-1.9.1.exe",
+    "sha256": "a44e7ff765c9a29b0e8fc5eb1c55bd60f9bf8bbbe32efe4787d3196b79ba2fb2"
   }
 }
