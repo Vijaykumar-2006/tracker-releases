@@ -1,13 +1,13 @@
 {
-  "version": "1.11.0",
-  "notes": "Payment app notifications: GPay, PhonePe, Paytm and bank app payments are tracked even without a bank SMS (Settings → turn on, allow notification access). Balance check: Tracker tells you when an account's balance doesn't match the bank's, and how much is missing.",
-  "publishedAt": "2026-10-26T05:49:20.223Z",
+  "version": "1.12.0",
+  "notes": "Payments you always file the same way are filed for you (see them under Review → Filed for you, tap to change). Refunds are taken off the payment they give back instead of counting as income, and failed payments that bounce back leave Review. Money from someone who owes you is recorded as them paying you back (with Undo). Tasks can repeat counting from when you finish them: 'water plants every 4 days after done'.",
+  "publishedAt": "2026-10-26T07:30:23.961Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.11.0/Tracker-1.11.0.apk",
-    "sha256": "a3f96d17757b544e89d58056c77278502b0163d8ae156c6600adc7a03c859fc6"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.12.0/Tracker-1.12.0.apk",
+    "sha256": "da5a22b7e8d37f181de55d411f6ac03d0d19ee0f0702e8f593cdead8b1a4f54b"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.11.0/Tracker-Setup-1.11.0.exe",
-    "sha256": "abccc8622861b7efd8d8cd6770a0aac6220de8690d9a8d4a1d7d8d8ea4c2a774"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.12.0/Tracker-Setup-1.12.0.exe",
+    "sha256": "bdcfe9b40b6befc86feae809b2e392f6b1947b044f1bd35367114705b45ce959"
   }
 }
