@@ -1,13 +1,13 @@
 {
-  "version": "1.10.1",
-  "notes": "Expenses page: switch between banks to see each one's spending, budget and safe-to-spend. Tapping another app's notification no longer pulls Tracker back to ask for your fingerprint.",
-  "publishedAt": "2026-10-26T05:01:52.242Z",
+  "version": "1.11.0",
+  "notes": "Payment app notifications: GPay, PhonePe, Paytm and bank app payments are tracked even without a bank SMS (Settings → turn on, allow notification access). Balance check: Tracker tells you when an account's balance doesn't match the bank's, and how much is missing.",
+  "publishedAt": "2026-10-26T05:49:20.223Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.10.1/Tracker-1.10.1.apk",
-    "sha256": "ca376a366c05a3d07d49655a9e64e80d6ce163c6aa37b3bf7a1e3f6df4041a10"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.11.0/Tracker-1.11.0.apk",
+    "sha256": "a3f96d17757b544e89d58056c77278502b0163d8ae156c6600adc7a03c859fc6"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.10.1/Tracker-Setup-1.10.1.exe",
-    "sha256": "e2943905d701f425630e66faa111968cff7c952083657db0ee3fb41d6cff26ab"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.11.0/Tracker-Setup-1.11.0.exe",
+    "sha256": "abccc8622861b7efd8d8cd6770a0aac6220de8690d9a8d4a1d7d8d8ea4c2a774"
   }
 }
