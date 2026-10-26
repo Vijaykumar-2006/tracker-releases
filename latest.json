@@ -1,13 +1,13 @@
 {
-  "version": "1.12.0",
-  "notes": "Payments you always file the same way are filed for you (see them under Review → Filed for you, tap to change). Refunds are taken off the payment they give back instead of counting as income, and failed payments that bounce back leave Review. Money from someone who owes you is recorded as them paying you back (with Undo). Tasks can repeat counting from when you finish them: 'water plants every 4 days after done'.",
-  "publishedAt": "2026-10-26T07:30:23.961Z",
+  "version": "1.13.0",
+  "notes": "Habits with streaks on the Tasks tab, including 'avoid spending' habits that tick themselves from your payments. Review → Done for you lists what Tracker did by itself, with Undo. Settings → Problem report to share when something isn't working. Much less text on every screen.",
+  "publishedAt": "2026-10-26T09:15:58.569Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.12.0/Tracker-1.12.0.apk",
-    "sha256": "da5a22b7e8d37f181de55d411f6ac03d0d19ee0f0702e8f593cdead8b1a4f54b"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.13.0/Tracker-1.13.0.apk",
+    "sha256": "4aec5bcf9ff95db2960f3e2b7d31d93f44e2df5fc6e9ba6b42c381f385db0332"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.12.0/Tracker-Setup-1.12.0.exe",
-    "sha256": "bdcfe9b40b6befc86feae809b2e392f6b1947b044f1bd35367114705b45ce959"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.13.0/Tracker-Setup-1.13.0.exe",
+    "sha256": "14b6a24a1c3e94a3970cc942ca3a50d761d4cff6bb5a137fb8aa227567e991ae"
   }
 }
