@@ -1,13 +1,13 @@
 {
-  "version": "1.17.0",
-  "notes": "Gold accent in dark mode, new font, compact mode, slimmer messages, phone bars match the app",
-  "publishedAt": "2026-10-30T18:46:20.419Z",
+  "version": "1.17.1",
+  "notes": "Silver accent in dark mode instead of gold",
+  "publishedAt": "2026-10-30T19:11:05.402Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.0/Tracker-1.17.0.apk",
-    "sha256": "36bd96887277f9b9348db19a1c509be59d4b0a2cd421c081b213609469f277f3"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.1/Tracker-1.17.1.apk",
+    "sha256": "c5f151154bc2a67c2acbb5722b2960f041c3d88d1291e0e841f63f9bbf0d9e43"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.0/Tracker-Setup-1.17.0.exe",
-    "sha256": "f25dab1298098d50b3ae9508c146ad9a847d89932a996c3581755664e5e4e7e0"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.1/Tracker-Setup-1.17.1.exe",
+    "sha256": "938b0e081cfc0146c1c6c7590cb84bb16acb6d1de7ceee570c4833d034e39c51"
   }
 }
