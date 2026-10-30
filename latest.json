@@ -1,13 +1,13 @@
 {
-  "version": "1.16.0",
-  "notes": "Black and white theme, simpler Settings, swipe to edit or delete, pull to refresh, 7-day trend, new widget",
-  "publishedAt": "2026-10-30T18:21:44.777Z",
+  "version": "1.17.0",
+  "notes": "Gold accent in dark mode, new font, compact mode, slimmer messages, phone bars match the app",
+  "publishedAt": "2026-10-30T18:46:20.419Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.16.0/Tracker-1.16.0.apk",
-    "sha256": "c1160f184ab322e543c7c0a131fa997334ba4a7167f29a84c7f5fadb9d8c455c"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.0/Tracker-1.17.0.apk",
+    "sha256": "36bd96887277f9b9348db19a1c509be59d4b0a2cd421c081b213609469f277f3"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.16.0/Tracker-Setup-1.16.0.exe",
-    "sha256": "70aef1c4ab0d4bc94ea0a947b52792be0168565f08f90fd09070baf7c7daa737"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.0/Tracker-Setup-1.17.0.exe",
+    "sha256": "f25dab1298098d50b3ae9508c146ad9a847d89932a996c3581755664e5e4e7e0"
   }
 }
