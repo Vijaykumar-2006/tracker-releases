@@ -1,13 +1,13 @@
 {
-  "version": "1.13.1",
-  "notes": "Reads slice bank SMS and slice app notifications. Payment notifications keep working on Xiaomi and similar phones: Tracker restarts its reader and catches up on missed ones; Settings shows 'Not running' with the fix. Past month of SMS rescanned once.",
-  "publishedAt": "2026-10-28T07:46:05.577Z",
+  "version": "1.13.2",
+  "notes": "Reads slice's alert emails from Gmail notifications (bank senders only) and joins them with GPay's notification for the same payment: one entry with GPay's payee and the right account.",
+  "publishedAt": "2026-10-30T13:34:19.227Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.13.1/Tracker-1.13.1.apk",
-    "sha256": "12a07e1dcf16f5bb27ef9550fc7138fe815d59d425a9d29b1950700876665fdb"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.13.2/Tracker-1.13.2.apk",
+    "sha256": "3da9f02459fe63940566e8ca70292b03b633bd69db328393250e015a570f1ab8"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.13.1/Tracker-Setup-1.13.1.exe",
-    "sha256": "5b0c62df527e169c125c9a7eb15f4835f88c6882f5fc2e3034f7e4619272b12b"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.13.2/Tracker-Setup-1.13.2.exe",
+    "sha256": "22bc399b9cc9e617f5ec22ad9f71bb767ea07a347dec885607380aacf1722902"
   }
 }
