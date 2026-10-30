@@ -1,13 +1,13 @@
 {
-  "version": "1.13.2",
-  "notes": "Reads slice's alert emails from Gmail notifications (bank senders only) and joins them with GPay's notification for the same payment: one entry with GPay's payee and the right account.",
-  "publishedAt": "2026-10-30T13:34:19.227Z",
+  "version": "1.14.0",
+  "notes": "Bank alert emails: Settings → Bank alerts → Bank alert emails gives you a small script for your own Gmail. It reads slice's alert emails every 5 minutes, even with the phone off, and Tracker joins them with GPay's notification so each payment has the payee and the slice account.",
+  "publishedAt": "2026-10-30T15:18:05.674Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.13.2/Tracker-1.13.2.apk",
-    "sha256": "3da9f02459fe63940566e8ca70292b03b633bd69db328393250e015a570f1ab8"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.14.0/Tracker-1.14.0.apk",
+    "sha256": "5f684a4567b17dcce129c7382f60f3b064f6e751d39d0daf755bc62483a978b0"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.13.2/Tracker-Setup-1.13.2.exe",
-    "sha256": "22bc399b9cc9e617f5ec22ad9f71bb767ea07a347dec885607380aacf1722902"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.14.0/Tracker-Setup-1.14.0.exe",
+    "sha256": "2a1736e761f0ef208d5983aad337c443aff03e68de3d5a5eca5ad631b04cf336"
   }
 }
