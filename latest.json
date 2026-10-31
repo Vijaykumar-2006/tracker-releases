@@ -1,13 +1,13 @@
 {
-  "version": "1.17.1",
-  "notes": "Silver accent in dark mode instead of gold",
-  "publishedAt": "2026-10-30T19:11:05.402Z",
+  "version": "1.17.2",
+  "notes": "Reads Dhanlaxmi Bank SMS (and 9 more banks); rechecks the last month once",
+  "publishedAt": "2026-10-31T15:36:44.438Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.1/Tracker-1.17.1.apk",
-    "sha256": "c5f151154bc2a67c2acbb5722b2960f041c3d88d1291e0e841f63f9bbf0d9e43"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.2/Tracker-1.17.2.apk",
+    "sha256": "b2e8f6778499589648151d8c416c9a60200f516285f456576e05ef70d2b54064"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.1/Tracker-Setup-1.17.1.exe",
-    "sha256": "938b0e081cfc0146c1c6c7590cb84bb16acb6d1de7ceee570c4833d034e39c51"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.2/Tracker-Setup-1.17.2.exe",
+    "sha256": "3c972a30af70feace37472272ddf44c1c35703ffdeec6c234e8b5963ac1d16fd"
   }
 }
