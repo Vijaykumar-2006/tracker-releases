@@ -1,13 +1,13 @@
 {
-  "version": "1.18.0",
-  "notes": "Expenses now ask which account paid, so balances stay right. Accounts shows payments without an account.",
-  "publishedAt": "2026-10-31T17:21:35.198Z",
+  "version": "1.19.0",
+  "notes": "Set balance on accounts made from SMS or email (like slice), so payments lower it. Bank SMS balance starts tracking automatically.",
+  "publishedAt": "2026-10-31T17:37:52.151Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.18.0/Tracker-1.18.0.apk",
-    "sha256": "229b9e1cec881bd80ca02bdbcd8e6f12e2d4669320f2486303bcbe59b2346131"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.19.0/Tracker-1.19.0.apk",
+    "sha256": "8f6bc848c6f818c6cfa43632e801e3e265dd75fd8f50fa998c9ded4c1e519031"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.18.0/Tracker-Setup-1.18.0.exe",
-    "sha256": "5a93d8db1eb21144b4bd3f492332ba0a6de9feb58c70806141dff97114fc7d35"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.19.0/Tracker-Setup-1.19.0.exe",
+    "sha256": "029c95515109aecf854ad40e1b7c24c1405011d3a953020c6755dd8087e18b4e"
   }
 }
