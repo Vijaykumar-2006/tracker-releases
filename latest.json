@@ -1,13 +1,13 @@
 {
-  "version": "1.17.2",
-  "notes": "Reads Dhanlaxmi Bank SMS (and 9 more banks); rechecks the last month once",
-  "publishedAt": "2026-10-31T15:36:44.438Z",
+  "version": "1.18.0",
+  "notes": "Expenses now ask which account paid, so balances stay right. Accounts shows payments without an account.",
+  "publishedAt": "2026-10-31T17:21:35.198Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.2/Tracker-1.17.2.apk",
-    "sha256": "b2e8f6778499589648151d8c416c9a60200f516285f456576e05ef70d2b54064"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.18.0/Tracker-1.18.0.apk",
+    "sha256": "229b9e1cec881bd80ca02bdbcd8e6f12e2d4669320f2486303bcbe59b2346131"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.17.2/Tracker-Setup-1.17.2.exe",
-    "sha256": "3c972a30af70feace37472272ddf44c1c35703ffdeec6c234e8b5963ac1d16fd"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.18.0/Tracker-Setup-1.18.0.exe",
+    "sha256": "5a93d8db1eb21144b4bd3f492332ba0a6de9feb58c70806141dff97114fc7d35"
   }
 }
