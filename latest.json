@@ -1,13 +1,13 @@
 {
-  "version": "1.19.0",
-  "notes": "Set balance on accounts made from SMS or email (like slice), so payments lower it. Bank SMS balance starts tracking automatically.",
-  "publishedAt": "2026-10-31T17:37:52.151Z",
+  "version": "1.20.0",
+  "notes": "Reminder buttons (Done, Snooze, Tomorrow) work without opening Tracker. Bank SMS notifications clear once filed. Loans paid back are recognised more often.",
+  "publishedAt": "2026-11-04T14:19:07.608Z",
   "android": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.19.0/Tracker-1.19.0.apk",
-    "sha256": "8f6bc848c6f818c6cfa43632e801e3e265dd75fd8f50fa998c9ded4c1e519031"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.20.0/Tracker-1.20.0.apk",
+    "sha256": "dcbf58ebf77648e3be459015cfed2fbd4847cc5022f62f7bd37e370877c71fd8"
   },
   "windows": {
-    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.19.0/Tracker-Setup-1.19.0.exe",
-    "sha256": "029c95515109aecf854ad40e1b7c24c1405011d3a953020c6755dd8087e18b4e"
+    "url": "https://github.com/Vijaykumar-2006/tracker-releases/releases/download/v1.20.0/Tracker-Setup-1.20.0.exe",
+    "sha256": "278c68cd4a01363b92bba0209a45f3ed7e72dddcf4c5c7f0207e5cb96c0bca2c"
   }
 }
